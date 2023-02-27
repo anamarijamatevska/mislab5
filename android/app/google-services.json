@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918485768199",
+    "project_id": "anamarijam-flutter-app",
+    "storage_bucket": "anamarijam-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918485768199:android:b959d795d72415aacff2a2",
+        "android_client_info": {
+          "package_name": "com.example.lab4_mis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918485768199-hpmptaee77tphnddil85m2rg6a33d27r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab4_mis",
+            "certificate_hash": "2334f1c7170350c885c7cdf33ee66226c77a3c5f"
+          }
+        },
+        {
+          "client_id": "918485768199-48nsgb27j7er5hpk07u85o6dhpc0b55e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3riAaAuj6Q57g0pElNXWfKUe8M6JdA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918485768199-48nsgb27j7er5hpk07u85o6dhpc0b55e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
